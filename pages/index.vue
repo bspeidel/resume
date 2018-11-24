@@ -11,7 +11,7 @@
       <div class="field">
         <label class="label">Username</label>
         <div class="control has-icons-left has-icons-right">
-          <input class="input is-success" type="text" placeholder="Text input" value="bulma">
+          <input class="input is-success" type="text" placeholder="Text input" value="Benjamin">
           <span class="icon is-small is-left">
             <i class="fa fa-user"></i>
           </span>
